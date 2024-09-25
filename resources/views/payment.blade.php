@@ -94,7 +94,7 @@
 
     <style>
         .card-header {
-            background-color: #4a90e2; /* Blue color for the header */
+            background-colo
             color: #fff;
             font-size: 1.5rem;
             font-weight: bold;
